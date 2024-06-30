@@ -1,0 +1,13 @@
+package com.xgc.himsystem;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class HimSystemApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
